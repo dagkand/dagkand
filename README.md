@@ -2,7 +2,8 @@
 
 **`Software student and independent developer`**
 
-- This is my github profile where most of my projects and school assignments will be posted.
+- This is my github profile where most of my school assignments will be posted.
+- Personal project will also be posted here, while i learn and get more profficient.
 
 ### Languages and Tools 
 
