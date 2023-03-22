@@ -1,6 +1,6 @@
 # Welcome👋
 
-**`Software student and independent developer`**
+**`Software Student and Independent Developer`**
 
 - This is my github profile where most of my school assignments will be posted.
 - Personal project will also be posted here, while i learn and get more profficient.
