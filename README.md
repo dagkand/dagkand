@@ -23,5 +23,6 @@
 
 <a href="https://www.linkedin.com/in/dag-kristian-andersen-225b02258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dagkand" height="30" width="40" /></a>
 
+---
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=dagkand)](https://git.io/streak-stats)
