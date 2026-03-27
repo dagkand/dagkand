@@ -1,4 +1,4 @@
-# Welcome👋
+# Welcome
 
 **`Software Student and Independent Developer`**
 
